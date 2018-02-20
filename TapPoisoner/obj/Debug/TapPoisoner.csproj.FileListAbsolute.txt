@@ -1,0 +1,6 @@
+c:\users\tom\documents\visual studio 2015\Projects\TapPoisoner\TapPoisoner\bin\Debug\TapPoisoner.exe.config
+c:\users\tom\documents\visual studio 2015\Projects\TapPoisoner\TapPoisoner\bin\Debug\TapPoisoner.exe
+c:\users\tom\documents\visual studio 2015\Projects\TapPoisoner\TapPoisoner\bin\Debug\TapPoisoner.pdb
+c:\users\tom\documents\visual studio 2015\Projects\TapPoisoner\TapPoisoner\obj\Debug\TapPoisoner.csprojResolveAssemblyReference.cache
+c:\users\tom\documents\visual studio 2015\Projects\TapPoisoner\TapPoisoner\obj\Debug\TapPoisoner.exe
+c:\users\tom\documents\visual studio 2015\Projects\TapPoisoner\TapPoisoner\obj\Debug\TapPoisoner.pdb
